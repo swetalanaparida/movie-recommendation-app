@@ -1,0 +1,3 @@
+•	Developed a movie recommendation app that suggests similar movies using TF-IDF vectorization and cosine similarity.
+•	Built an interactive web interface with personalized recommendations, IMDb-based filtering, and movie trailers.
+•	Tools: Python, Pandas, NumPy, scikit-learn, NLTK, Streamlit, OMDb API, Matplotlib, WordCloud, Joblib
