@@ -1,0 +1,213 @@
+[2025-07-11 21:24:59,339] INFO - 🔁 Loading data...
+[2025-07-11 21:25:00,079] INFO - ✅ Data loaded successfully.
+[2025-07-11 21:25:26,040] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-11 21:25:26,054] INFO - ✅ Top 5 recommendations ready.
+[2025-07-11 21:27:47,952] INFO - 🔁 Loading data...
+[2025-07-11 21:27:48,067] INFO - ✅ Data loaded successfully.
+[2025-07-11 21:27:48,084] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-11 21:27:48,088] INFO - ✅ Top 5 recommendations ready.
+[2025-07-11 21:38:01,201] INFO - 🔁 Loading data...
+[2025-07-11 21:38:01,323] INFO - ✅ Data loaded successfully.
+[2025-07-11 21:38:01,337] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-11 21:38:01,341] INFO - ✅ Top 5 recommendations ready.
+[2025-07-11 21:38:55,287] INFO - 🎬 Recommending movies for: 'A Cinderella Story'
+[2025-07-11 21:38:55,299] INFO - ✅ Top 5 recommendations ready.
+[2025-07-11 21:39:22,858] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-11 21:39:22,870] INFO - ✅ Top 5 recommendations ready.
+[2025-07-11 21:39:49,158] INFO - 🎬 Recommending movies for: 'Titanic'
+[2025-07-11 21:39:49,168] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 00:32:07,143] INFO - 🔁 Loading data...
+[2025-07-12 00:32:07,673] INFO - ✅ Data loaded successfully.
+[2025-07-12 00:32:50,494] INFO - 🎬 Recommending movies for: 'Sex Tape'
+[2025-07-12 00:32:50,500] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 00:33:56,454] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-07-12 00:33:56,458] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 00:38:22,191] INFO - 🔁 Loading data...
+[2025-07-12 00:38:22,766] INFO - ✅ Data loaded successfully.
+[2025-07-12 00:38:41,250] INFO - 🎬 Recommending movies for: 'Fifty Shades of Grey'
+[2025-07-12 00:38:41,255] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 00:42:29,618] INFO - 🎬 Recommending movies for: '10 Cloverfield Lane'
+[2025-07-12 00:42:29,621] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:09:49,837] INFO - 🔁 Loading data...
+[2025-07-12 01:09:52,912] INFO - ✅ Data loaded successfully.
+[2025-07-12 01:09:59,045] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:09:59,052] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:10:17,443] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:10:17,448] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:10:59,069] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:10:59,073] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:12:39,717] INFO - 🔁 Loading data...
+[2025-07-12 01:12:40,188] INFO - ✅ Data loaded successfully.
+[2025-07-12 01:12:45,746] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:12:45,753] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:14:33,139] INFO - 🔁 Loading data...
+[2025-07-12 01:14:33,707] INFO - ✅ Data loaded successfully.
+[2025-07-12 01:14:36,608] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:14:36,614] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:14:41,023] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:14:41,027] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:14:42,466] INFO - 🎬 Recommending movies for: 'The Lake House'
+[2025-07-12 01:14:42,470] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:14:52,254] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:14:52,258] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:14:53,783] INFO - 🎬 Recommending movies for: 'The Lake House'
+[2025-07-12 01:14:53,786] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:14:55,696] INFO - 🎬 Recommending movies for: 'The Five-Year Engagement'
+[2025-07-12 01:14:55,701] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:15:09,368] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:15:09,371] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:15:10,812] INFO - 🎬 Recommending movies for: 'The Lake House'
+[2025-07-12 01:15:10,819] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:15:12,009] INFO - 🎬 Recommending movies for: 'The Five-Year Engagement'
+[2025-07-12 01:15:12,012] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:15:13,180] INFO - 🎬 Recommending movies for: 'Made of Honor'
+[2025-07-12 01:15:13,186] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:15:16,732] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:15:16,736] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:15:20,213] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 01:15:20,219] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:15:21,730] INFO - 🎬 Recommending movies for: 'The Lake House'
+[2025-07-12 01:15:21,733] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:17:32,471] INFO - 🔁 Loading data...
+[2025-07-12 01:17:32,993] INFO - ✅ Data loaded successfully.
+[2025-07-12 01:17:39,838] INFO - 🎬 Recommending movies for: '10th & Wolf'
+[2025-07-12 01:17:39,845] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:17:46,363] INFO - 🎬 Recommending movies for: '10th & Wolf'
+[2025-07-12 01:17:46,367] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:17:47,641] INFO - 🎬 Recommending movies for: 'The Departed'
+[2025-07-12 01:17:47,650] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:01,445] INFO - 🎬 Recommending movies for: '10th & Wolf'
+[2025-07-12 01:18:01,451] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:03,261] INFO - 🎬 Recommending movies for: 'The Departed'
+[2025-07-12 01:18:03,270] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:04,711] INFO - 🎬 Recommending movies for: 'Mickey Blue Eyes'
+[2025-07-12 01:18:04,720] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:24,805] INFO - 🎬 Recommending movies for: '10th & Wolf'
+[2025-07-12 01:18:24,811] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:26,080] INFO - 🎬 Recommending movies for: 'The Departed'
+[2025-07-12 01:18:26,090] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:26,130] INFO - 🎬 Recommending movies for: '10 Cloverfield Lane'
+[2025-07-12 01:18:26,136] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:28,733] INFO - 🎬 Recommending movies for: 'The Departed'
+[2025-07-12 01:18:28,742] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:30,205] INFO - 🎬 Recommending movies for: 'Mickey Blue Eyes'
+[2025-07-12 01:18:30,213] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:37,247] INFO - 🎬 Recommending movies for: '10 Cloverfield Lane'
+[2025-07-12 01:18:37,250] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:38,749] INFO - 🎬 Recommending movies for: 'The Departed'
+[2025-07-12 01:18:38,753] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:39,546] INFO - 🎬 Recommending movies for: '11:14'
+[2025-07-12 01:18:39,552] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:42,862] INFO - 🎬 Recommending movies for: '11:14'
+[2025-07-12 01:18:42,867] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:44,591] INFO - 🎬 Recommending movies for: 'The Departed'
+[2025-07-12 01:18:44,598] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:46,022] INFO - 🎬 Recommending movies for: 'Mickey Blue Eyes'
+[2025-07-12 01:18:46,030] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:47,248] INFO - 🎬 Recommending movies for: 'Shortbus'
+[2025-07-12 01:18:47,256] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:48,530] INFO - 🎬 Recommending movies for: '11:14'
+[2025-07-12 01:18:48,537] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:49,750] INFO - 🎬 Recommending movies for: 'The Departed'
+[2025-07-12 01:18:49,757] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:51,670] INFO - 🎬 Recommending movies for: 'Mickey Blue Eyes'
+[2025-07-12 01:18:51,679] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:52,896] INFO - 🎬 Recommending movies for: 'Shortbus'
+[2025-07-12 01:18:52,905] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 01:18:56,011] INFO - 🎬 Recommending movies for: 'Grand Theft Parsons'
+[2025-07-12 01:18:56,017] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 13:04:16,725] INFO - 🔁 Loading data...
+[2025-07-12 13:04:17,370] INFO - ✅ Data loaded successfully.
+[2025-07-12 13:04:22,460] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 13:04:22,483] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 13:04:37,507] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-07-12 13:04:37,520] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 13:04:40,406] INFO - 🎬 Recommending movies for: 'Tom Jones'
+[2025-07-12 13:04:40,419] INFO - ✅ Top 5 recommendations ready.
+[2025-07-12 13:07:11,282] INFO - 🔁 Loading data...
+[2025-07-12 13:07:11,910] INFO - ✅ Data loaded successfully.
+[2025-07-14 18:32:42,358] INFO - 🔁 Loading data...
+[2025-07-14 18:32:46,790] INFO - ✅ Data loaded successfully.
+[2025-07-14 18:39:31,692] INFO - 🔁 Loading data...
+[2025-07-14 18:39:32,235] INFO - ✅ Data loaded successfully.
+[2025-07-14 18:39:49,821] INFO - 🎬 Recommending movies for: 'Anywhere But Here'
+[2025-07-14 18:39:49,839] INFO - ✅ Top 5 recommendations ready.
+[2025-07-14 18:40:13,595] INFO - 🎬 Recommending movies for: 'Anywhere But Here'
+[2025-07-14 18:40:13,604] INFO - ✅ Top 5 recommendations ready.
+[2025-07-14 18:40:14,819] INFO - 🎬 Recommending movies for: 'Anywhere But Here'
+[2025-07-14 18:40:14,829] INFO - ✅ Top 5 recommendations ready.
+[2025-07-14 18:40:28,913] INFO - 🎬 Recommending movies for: 'Anywhere But Here'
+[2025-07-14 18:40:28,924] INFO - ✅ Top 5 recommendations ready.
+[2025-07-14 18:40:31,870] INFO - 🎬 Recommending movies for: 'Slums of Beverly Hills'
+[2025-07-14 18:40:31,881] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:01:03,701] INFO - 🔁 Loading data...
+[2025-09-11 19:01:03,702] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-09-11 19:07:49,865] INFO - 🔁 Loading data...
+[2025-09-11 19:07:53,933] INFO - ✅ Data loaded successfully.
+[2025-09-11 19:07:54,495] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:08:02,312] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:08:03,673] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:08:03,696] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-09-11 19:08:03,705] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:08:13,053] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:08:13,075] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-09-11 19:08:13,087] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:08:14,154] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:08:14,178] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-09-11 19:08:14,192] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:08:26,759] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:08:26,777] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-09-11 19:08:26,798] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:08:27,452] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:08:27,477] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-09-11 19:08:27,488] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:09:07,729] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:09:07,745] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-09-11 19:09:07,760] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:09:08,905] WARNING - python-dotenv could not parse statement starting at line 1
+[2025-09-11 19:09:08,957] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:09:08,999] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:10:31,934] INFO - 🔁 Loading data...
+[2025-09-11 19:10:32,669] INFO - ✅ Data loaded successfully.
+[2025-09-11 19:10:35,809] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:10:35,824] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:10:52,675] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:10:52,690] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:10:58,582] INFO - 🎬 Recommending movies for: 'The Pallbearer'
+[2025-09-11 19:10:58,597] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:11,431] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:11:11,445] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:17,324] INFO - 🎬 Recommending movies for: 'The Pallbearer'
+[2025-09-11 19:11:17,334] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:20,323] INFO - 🎬 Recommending movies for: 'Tom Jones'
+[2025-09-11 19:11:20,334] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:43,933] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:11:43,947] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:44,625] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:11:44,635] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:45,239] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:11:45,252] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:50,220] INFO - 🎬 Recommending movies for: 'The Pallbearer'
+[2025-09-11 19:11:50,232] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:53,602] INFO - 🎬 Recommending movies for: 'Tom Jones'
+[2025-09-11 19:11:53,613] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:11:59,827] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:11:59,842] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:12:06,027] INFO - 🎬 Recommending movies for: 'The Pallbearer'
+[2025-09-11 19:12:06,037] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:12:11,536] INFO - 🎬 Recommending movies for: 'Tom Jones'
+[2025-09-11 19:12:11,543] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:13:09,283] INFO - 🔁 Loading data...
+[2025-09-11 19:13:09,894] INFO - ✅ Data loaded successfully.
+[2025-09-11 19:13:16,905] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:13:16,921] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:13:32,143] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:13:32,159] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:13:38,301] INFO - 🎬 Recommending movies for: 'The Five-Year Engagement'
+[2025-09-11 19:13:38,310] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:13:39,968] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-11 19:13:39,983] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:13:46,178] INFO - 🎬 Recommending movies for: 'The Five-Year Engagement'
+[2025-09-11 19:13:46,192] INFO - ✅ Top 5 recommendations ready.
+[2025-09-11 19:13:49,932] INFO - 🎬 Recommending movies for: 'The Lake House'
+[2025-09-11 19:13:49,945] INFO - ✅ Top 5 recommendations ready.
