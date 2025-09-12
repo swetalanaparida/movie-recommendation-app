@@ -4,7 +4,7 @@
 - Tools: Python, Pandas, NumPy, scikit-learn, NLTK, Streamlit, OMDb API, Matplotlib, WordCloud, Joblib
 
 ## 📂 Project Structure
-src/
+
 ├── main.py
 ├── recommend.py
 ├── preprocess.py
@@ -17,7 +17,7 @@ src/
 1. Clone the repository:
    ```bash
    git clone https://github.com/swetalanaparida/movie-recommendation-app.git
-   cd movie-recommendation-app/src
+   cd movie-recommendation-app
    
 2. Install dependencies:
    pip install -r requirements.txt
